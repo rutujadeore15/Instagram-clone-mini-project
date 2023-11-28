@@ -1,11 +1,12 @@
 # Instagram-clone-mini-project
 To create an Instagram clone dataset on GitHub, you can: 
-                                   Start MySQL Server Start MySQL Workbench Open File Select Open SQL Script Open use.sql Execute it
+                      Start MySQL Server Start MySQL Workbench Open File Select Open SQL Script Open use.sql Execute it
 Create queries with File Select New Query Tab Select SELECT * FROM users
 
 Instagram Clone Database
 
-             Welcome to the Instagram Clone Database project! This repository contains the SQL database schema and sample data for an Instagram clone, allowing you to replicate some of the core functionality of the popular social media platform.
+           Welcome to the Instagram Clone Database project! This repository contains the SQL database schema and 
+           sample data for an Instagram clone, allowing you to replicate some of the core functionality of the popular social mediaplatform.
 
 Table of Contents
 Database Structure
