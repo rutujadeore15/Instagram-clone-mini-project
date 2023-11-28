@@ -34,14 +34,24 @@ To set up and use the Instagram Clone Database on your local system, follow thes
 
 Tasks performed:
 
+          
           1.Average User Posts: Calculate the average number of posts per user in the database.
+          
           2.Top 5 Hashtags: Found the top 5 most used hashtags in posts and comments.
+          
           3.Likes on Every Photo: Identified users who liked every photo on the site.
+          
           4.User Account Rank: Retrieved a list of users, their usernames, and ranked them by account creation date.
+          
           5.Comments on Photos: Listed comments on photos with text, photo URLs, user usernames, and comment counts.
+          
           6.Tag Popularity: Displayed tag names and the number of associated photos, ranked by popularity.
+          
           7.User Photo Ranking: Listed user usernames along with the count of photos they posted, ranked by the number of photos.
+          
           8.User Photo History: Showed user usernames with their first and next posted photo dates.
+          
           9.Comments and Previous Comment: Displayed comment text, commenter usernames, and previous comment text on the same photo.
+          
           10.User Photo Counts: Showed user usernames with the number of photos they posted and those posted by users before and after 
            them, based on creation dates.
