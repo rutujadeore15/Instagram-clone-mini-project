@@ -16,21 +16,20 @@ Schema Overview
 Database Structure
                             The Instagram Clone Database is designed using SQL and consists of multiple tables to store user information, photos, likes, comments, hashtags, and more. Below are the main tables in the schema:
 
-users: Stores user profiles, including usernames, emails, and other user-related data.
+users:  Stores user profiles, including usernames, emails, and other user-related data.
 
-photos: Contains photo records, including URLs, creation timestamps, and references to user IDs.
+photos:  Contains photo records, including URLs, creation timestamps, and references to user IDs.
 
-likes: Records likes given by users to specific photos.
+likes:  Records likes given by users to specific photos.
 
-comments: Stores user comments on photos, associated with both users and photos.
+comments:  Stores user comments on photos, associated with both users and photos.
 
-hashtags: Manages hashtags used in photo captions and comments, linked to relevant photos.
+hashtags:   Manages hashtags used in photo captions and comments, linked to relevant photos.
 
 Getting Started
 To set up and use the Instagram Clone Database on your local system, follow these steps:
-
-                  Create a new SQL database using your preferred database management system (e.g., MySQL, PostgreSQL).
-           Import the SQL file instagram_clone_db.sql into your database to create the necessary tables and sample data.
+        Create a new SQL database using your preferred database management system (e.g., MySQL, PostgreSQL)
+Import the SQL file instagram_clone_db.sql into your database to create the necessary tables and sample data.
 
 Tasks performed:
 
@@ -51,7 +50,8 @@ Tasks performed:
           
           8.User Photo History: Showed user usernames with their first and next posted photo dates.
           
-          9.Comments and Previous Comment: Displayed comment text, commenter usernames, and previous comment text on the same photo.
+          9.Comments and Previous Comment: Displayed comment text, commenter usernames, and previous comment text on the same
+          photo.
           
-          10.User Photo Counts: Showed user usernames with the number of photos they posted and those posted by users before and after 
-           them, based on creation dates.
+          10.User Photo Counts: Showed user usernames with the number of photos they posted and those posted by
+          users before and after them, based on creation dates.
