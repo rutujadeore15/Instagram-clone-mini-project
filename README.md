@@ -28,6 +28,7 @@ hashtags:   Manages hashtags used in photo captions and comments, linked to rele
 
 Getting Started
 To set up and use the Instagram Clone Database on your local system, follow these steps:
+       
         Create a new SQL database using your preferred database management system (e.g., MySQL, PostgreSQL)
 Import the SQL file instagram_clone_db.sql into your database to create the necessary tables and sample data.
 
